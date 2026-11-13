@@ -1,0 +1,17 @@
+# Dependencies & Build Output
+node_modules/
+dist/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Personal Interview Guide (local only)
+Photo_Gallery_Interview_Guide.pdf
+*_Interview_Guide.pdf
+
+# Logs & OS Files
+*.log
+.DS_Store
+Thumbs.db
